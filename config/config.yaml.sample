@@ -1,0 +1,5 @@
+app:
+    timestamp: 2022-11-21 12:59:28 +0000 UTC # time stamp for axhub api provide
+    url:
+        axhub: https://axhub.im/api/project/info/000000000000 # axhub url 000000000000 instead of project id
+        lark: https://open.feishu.cn/open-apis/bot/v2/hook/00000000000000000000000 # lark url
